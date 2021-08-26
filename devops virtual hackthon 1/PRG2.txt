@@ -1,0 +1,11 @@
+Supervised learning algorithm will be used to develop our model our data
+Supervised learning algorithm will be used to develop our model
+<<<<<<< HEAD
+
+
+=======
+commit 1 to program 2
+
+commit 2 to program 2
+>>>>>>> 24ad324 (b1com2)
+
